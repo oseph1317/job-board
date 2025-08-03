@@ -16,8 +16,11 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>See you</h1>
-      <h2>Bye</h2>
+      <h1>Hello again</h1>
+      <p>Going to practice the basics like paragraphs and headers</p>
+      <h2>learning is practice with time</h2>
+      <p>Also, familiarizing how to commit to github</p>
+      <h3>Just practicing slowly</h3>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -27,7 +30,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        It's gone now
+        I need to start trying other things too
       </p>
     </>
   )
