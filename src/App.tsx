@@ -19,11 +19,11 @@ function App() {
       <h1>Hello again</h1>
       <p>Going to practice the basics like paragraphs and headers</p>
       <h2>learning is practice with time</h2>
-      <p>Also, familiarizing how to commit to github</p>
-      <h3>Just practicing slowly</h3>
+      <p>familiarization committing to github</p>
+      <h3>More practice</h3>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          has been press this many times {count}
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
