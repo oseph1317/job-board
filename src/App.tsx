@@ -17,7 +17,6 @@ function App() {
         </a>
       </div>
       <h1>Hello again</h1>
-      <p>Going to practice the basics like paragraphs and headers</p>
       <h2>learning is practice with time</h2>
       <p>familiarization committing to github</p>
       <h3>More practice</h3>
@@ -30,7 +29,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        I need to start trying other things too
+        take things slowly
       </p>
     </>
   )
