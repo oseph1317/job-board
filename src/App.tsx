@@ -17,6 +17,8 @@ function App() {
         </a>
       </div>
       <h1>Hello again</h1>
+      <p>Just keeping my memory, so far just add & subtracting</p>
+      <h1>Joseph, find time to watch REACT tutorial</h1>
       <h2>learning is practice with time</h2>
       <p>familiarization committing to github</p>
       <h3>More practice</h3>
@@ -29,7 +31,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        take things slowly
+        very slowly
       </p>
     </>
   )
