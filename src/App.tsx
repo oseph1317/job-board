@@ -17,21 +17,20 @@ function App() {
         </a>
       </div>
       <h1>Hello again</h1>
-      <p>Just keeping my memory, so far just add & subtracting</p>
-      <h1>Joseph, find time to watch REACT tutorial</h1>
-      <h2>learning is practice with time</h2>
+      <p>Just keeping my memory</p>
+      <p>Let's get back on the horse</p>
+      <h1>Joseph make sure to practice</h1>
+      <h2>pactice makes perfect</h2>
       <p>familiarization committing to github</p>
       <h3>More practice</h3>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          has been press this many times {count}
+          has been press this many times, click click {count}
         </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+        
       </div>
       <p className="read-the-docs">
-        very slowly
+        very slowly, starting to learn
       </p>
     </>
   )
