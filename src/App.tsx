@@ -28,9 +28,15 @@ function App() {
         </button>
       </div>
       {/* Button that adds count with it's self */}
-      <div className="ButtonSelf">
+      <div className="ButtonSelfAdd">
         <button onClick={() => setCount((count) => count + count)}>
           adds clicks with it's self {count}
+        </button>
+      </div>
+      <div className="ButtonSelfMult">
+      {/* Button that Multiples count with self*/}
+        <button onClick={() => setCount((count) => count * count)}>
+          multiples clicks with it's self {count}
         </button>
       </div>
       <p className="read-the-docs">
